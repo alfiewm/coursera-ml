@@ -1,2 +1,2 @@
 # coursera-ml
-coursera machine learning homework
+coursera machine learning homeworks
